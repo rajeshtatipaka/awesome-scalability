@@ -870,6 +870,4 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
-## Donation
 
-[Binh Nguyen](https://sg.linkedin.com/in/binhnguyennus) creates and maintains this project. [Could you treat his cat a cake?](https://paypal.me/binhnguyennus) :cake:
